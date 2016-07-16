@@ -1,0 +1,4 @@
+teacher1 1 teacher teacher_management 223456 2
+teacher2 0 teacher teacher_management 234567 5
+student1 1 student student_academy    141301401 10
+student2 0 student student_academy    141301402 15

@@ -1,0 +1,2 @@
+student1 10001 26
+student2 10002 36
